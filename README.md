@@ -10,4 +10,4 @@ NOTE: In order for the program to work, you have to import the _googletrans_, _p
 
 To use the program, run `python3 Language Translator.py` in a terminal if you have Python 3. I hope you enjoy and find it helpful!
 
-DISCLAIMER: The code for this project has been slightly edited by me from a GeeksforGeeks tutorial. The step-by-step instructions can be found here: https://www.geeksforgeeks.org/language-translator-using-google-api-in-python/
+DISCLAIMER: The code for this project has been slightly edited (by me) from a GeeksforGeeks tutorial. The step-by-step instructions can be found here: https://www.geeksforgeeks.org/language-translator-using-google-api-in-python/
